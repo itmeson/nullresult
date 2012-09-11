@@ -1,0 +1,44 @@
+---
+layout: name
+title: Home
+
+section: Home
+---
+
+<img class='inset right' src='images/mark.jpg' title='Mark Betnel' alt='Smiling Mark' width='120px' />
+
+<!--
+Hello World
+=======
+-->
+
+I'm Mark Betnel: a teacher, biophysicist, and philosopher.
+
++-- {.section}
+[Education][edu]
+=======
+I am passionate about improving learning outcomes in the sciences and
+mathematics through through research-driven teaching practices and lesson
+development for high school and college teachers.
+=--
+
++--	{.section}
+[Biophysics][research]
+========
+I've been using coarse-grained protein models to study protein aggregation
+in diseases like Alzheimer's and Parkinson's, and writing small
+software tools to help our research group work more efficiently.
+=--
+
++--     {.section}
+Philosophy
+=======
+I'm interested in the role of information in ethical decision making
+and in the emergence of agent-like behavior in large organizations.
+=--
+
+
+[phil]: http://markbetnel.com/philosophy/
+[edu]: http://markbetnel.com/education/
+[soft]: http://markbetnel.com/software/
+[research]: http://markbetnel.com/research/

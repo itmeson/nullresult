@@ -1,0 +1,30 @@
+---
+layout: name
+
+title: Info
+section: Info
+
+top: Mark Betnel
+
+---
+
+<img class='inset right' src='../images/sleeping.jpg' title='Galen at rest' alt='Live to sleep...' width='120px' />
+
+About Me
+========
+
+I'm currently a Rhode Islander, by way of [Boston][bu], [San Francisco][sfsu], [Los Angeles][mudd],
+and Manteca, California.  Along the way I've picked up a [BS in Physics][mudd],
+and master's degrees in [Philosophy][sfsu] and [Physics][uri].  
+
+Somehow I got into software development through work in biophysics in 
+graduate school, and I kept taking breaks to teach high school and college
+classes as a teaching assistant and grader.
+
+I've been married for five years to an actor and web programmer/project manager,
+ and together we have a one year old son who does a lot of eating, crawling, and observing.
+
+[bu]: http://buphy.bu.edu
+[mudd]: http://www.hmc.edu
+[sfsu]: http://www.sfsu.edu
+[uri]: http://www.uri.edu

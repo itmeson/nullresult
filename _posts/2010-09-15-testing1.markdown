@@ -1,0 +1,110 @@
+---
+title: Teaching philosophy for majors course in physics
+
+excerpt: Education policy often focuses on HOW to teach, but more attention must be paid to WHAT to teach
+
+categories: 
+- physics  
+- philosophy
+
+layout: name
+---
+
+**Don't Panic.  You can do this.  I can help.**  
+
+That's my laugh-line intro to my non-majors courses, where the students
+usually bring a heavy load of terror into the classroom.  But I actually
+think it's an important reminder in courses for physics majors too,
+even though most of them have already gotten over the initial hurdles
+of intrinsic interest in and fear of the material.  One reason is
+that a lot of the students who choose physics have been told their entire
+lives that they are very smart.  Recent studies in educational psychology
+have shown that messages like that, while well-intended as confidence
+boosters, often have the opposite effect.  "Being smart" is not something
+the student has any control over - it just is, or isn't.  And
+since most people are their own worst critics, many of these "smart" kids
+actually carry a heavy load of fear that they are only one blown test
+or one fumbled in-class question away from everyone finding out they aren't
+so smart after all.  These students, just like I was, are terrified of 
+being exposed as a fraud.  Sometimes this makes us study harder, but it also
+sometimes makes us extremely hesitant to take risks.
+
+Now a typical smart kid can often get by alright on talent, studying,
+and avoiding failure-prone situations, because, honestly, who's going
+to worry about the kid that's always doing their homeowrk?  But I
+believe that failure is an essential part of real learning and
+progress.  As students, and especially as scientists (who are just a
+particular kind of student, after all), we *need* to fail, sometimes
+spectacularly, if we are ever to discover where the edges of our
+knowledge really are.  Sure, if humanity already understood everything
+there is to know about the universe, then learning would solely be
+about the transmission of knowledge from teacher to student, and
+failure would be a shameful weakness to be stamped out or hidden.  But
+we don't understand everything.  There is, thankfully, much still
+to learn, and failure exposes our weaknesses and shows us
+the ragged edge of our ignorance, giving us an opportunity to 
+put our attention in the right direction.
+
+In my own case, I chose the most intense, high
+pressure undergraduate college I could find, and ended up having a
+*miserable* time finding out over the course of four years just how
+much smarter than me most physicists are.  But the experience
+taught me, brutally, how to have real empathy for a struggling
+student; later, working with high school and college students, I
+learned that the process of figuring out how best to teach a topic
+to a student, where the prospect of failure was real and immediate,
+ was the best possible way for me to learn the topic
+in the depth required to work as a "real" scientist.
+
+
+
+Most of my teaching experience has been at the high school level,
+where the students have long since been taught abject terror of math
+and science, and at the introductory college level, where the
+non-major students show even greater fear of the material.  I regard
+it as one of my life missions to help such students get through what
+many will later regard as the most challenging intellectual experience
+of their careers, and on the other side to walk away with (1) a
+conceptual understanding of physics as an approach to understanding
+the universe, and (2) the confidence to apply that conceptual
+understanding to situations beyond the classroom.
+
+In an increasingly specialized world, not everyone can push back the
+boundaries of human knowledge in physics, and it is unreasonable to
+orient our non-major courses as if they should.  But we can prepare
+students to understand where the challenges are and to understand the
+process of formulating answers to these challenges.  That will
+facilitate a citizenry that is empowered to make decisions with an eye
+to the long-term future.  For example, humanity will soon be faced
+with difficult decisions about the best way to deal with climate
+change.  While economics, politics, and personal philosophy will play
+a large role in these decisions, basic understanding of physics will
+enable citizens to understand the terms of the debate and contribute
+to it meaningfully.
+
+To accomplish this in the classroom I take a learning-centered
+approach: nothing is sacred but the ultimate goal of enabling student
+learning.  If it works, I will use it.  If it doesn’t work, I’ll get
+rid of it.  This requires rigorous attention to assessment, so we can
+tell what works; complete openness about what we are doing and why
+(surprise guests are always welcome in my classes); and an eye out for
+the results of educational research, to help identify and substantiate
+new and old best practices.
+
+Currently, I find that what works is to remove myself from the center
+of attention as much as possible (in a class in which the teacher is
+the only one *doing* anything, the teacher is the only one *learning*
+anything); to use realistic projects as frameworks for learning
+(students learn best when new knowledge is contextualized and when
+they take ownership of the process); to make focused use of
+demonstrations as a source of perplexing questions to be answered (to
+model the scientific process); guided examples to demonstrate my own
+approach and passion for the material; and to keep a careful watch for
+common misconceptions that students often take away from new concepts.
+
+
+[research]: ../work/
+[published]: ../work/pubs
+[personal]: ../
+[code]: ../code/
+

@@ -1,0 +1,59 @@
+---
+layout: name
+title: Research
+section: Research
+---
+
+<img class='inset right' src='../images/family.jpg' title='Work to live...' alt='my family' width='120px' />
+
+Research 
+========
+My biophysics work uses coarse-grained protein models to simulate
+folding and assembly of amyloid &beta; and &alpha;-synuclein, two
+naturally disordered proteins implicated in the pathogenesis
+of Alzheimer's and Parkinson's diseases, respectively.  Naturally
+disordered proteins, unlike normal functional proteins, lack a stable
+tertiary structure into which the protein is supposed to fold.
+I've been running simulations mimicking different solvent
+conditions to explore the free energy landscapes for folding
+of these proteins, examining the effect of potential therapeutic
+drugs on these free energy landscapes, and finding correlations
+between the quasi-stable structures of these proteins and the 
+structures of the toxic oligomeric states into which these
+proteins sometimes assemble.
+
+ 
+I work with scientific groups in academia to help
+develop simulation, analysis, and workflow tools that make their work
+easier, more repeatable, and better documented.
+
+The bottleneck in getting most scientific results is not the speed of
+the computations, but the speed of the programmer -- most scientists
+have not been trained in computer science, but they are all expected
+to use simulation and analysis tools as though they were.  So they end
+up spending a huge portion of their time on programming tasks that a
+professional software developer could complete in a fraction of the
+time.  Worse still, they aren't leveraging their strongest skills to
+*do science*.
+
+I use high level programming tools (like Python), which are easily 
+documentable and extensible to facilitate automating analysis and 
+simulation tasks.  This frees the scientists to do science, and gives
+them an audit trail that supports the credibility and repeatability
+of their work.
+
+
++-- {.section}
+Contact 
+=======
+I can be reached via email at markbetnel on gmail.
+=--
+
+
+
+
+[research]: ../work/
+[published]: ../work/pubs
+[personal]: ../
+[code]: ../code/
+
