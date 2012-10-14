@@ -8,6 +8,12 @@ section: Research
 
 Research 
 ========
+I'm primarily interested in the development and validation of computational
+models in all kinds of systems, and in the development of data
+analysis tools that make good use of software engineering
+principles to ensure reliability, repeatability, and provenance
+tracking.
+
 My biophysics work uses coarse-grained protein models to simulate
 folding and assembly of amyloid-&beta; and &alpha;-synuclein, two
 naturally disordered proteins implicated in the pathogenesis
@@ -22,15 +28,9 @@ between the quasi-stable structures of these proteins and the
 structures of the toxic oligomeric states into which these
 proteins sometimes assemble.
 
-Of course, much of my time is actually spent writing and testing code
-to perform various analysis tasks on the millions of protein
-conformations produced by these simulations.  In most of these tasks,
-computational speed is not critical, but code correctness,
-reproducibility, and the ability to track provenance of results
-back to raw data **is** critical.  Thus I try to make use of
-high level programming languages that are easily documented
-to do the analysis and to make record-keeping simpler and more
-transparent.
+My current big project is developing a textbook for Discrete Mathematics
+that uses the Sage symbolic mathematics system to enable students
+to *do* math while they read math. 
 
 +-- {.section}
 Contact 

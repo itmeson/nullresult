@@ -15,19 +15,19 @@ Hello World
 I'm Mark Betnel: a teacher, biophysicist, and philosopher.
 
 +-- {.section}
-[Education][edu]
+[Teaching][edu]
 =======
 I am passionate about improving learning outcomes in the sciences and
 mathematics through through research-driven teaching practices and lesson
-development for high school and college teachers.
+development.
 =--
 
 +--	{.section}
-[Biophysics][research]
+[Research][research]
 ========
 I've been using coarse-grained protein models to study protein aggregation
-in diseases like Alzheimer's and Parkinson's, and writing small
-software tools to help our research group work more efficiently.
+in diseases like Alzheimer's and Parkinson's, and I'm interested in development
+and validation of computational tools in data analysis and biophysics.
 =--
 
 +--     {.section}
@@ -39,6 +39,6 @@ and in the emergence of agent-like behavior in large organizations.
 
 
 [phil]: http://markbetnel.com/philosophy/
-[edu]: http://markbetnel.com/education/
+[edu]: http://markbetnel.com/teaching/
 [soft]: http://markbetnel.com/software/
 [research]: http://markbetnel.com/research/
