@@ -6,8 +6,10 @@ section: Research
 
 <img class='inset right' src='../images/family.jpg' title='Work to live...' alt='my family' width='120px' />
 
++-- {.section}
 Research 
 ========
+
 I'm primarily interested in the development and validation of computational
 models in all kinds of systems, and in the development of data
 analysis tools that make good use of software engineering
@@ -31,11 +33,6 @@ proteins sometimes assemble.
 My current big project is developing a textbook for Discrete Mathematics
 that uses the Sage symbolic mathematics system to enable students
 to *do* math while they read math. 
-
-+-- {.section}
-Contact 
-=======
-I can be reached via email at markbetnel on gmail.
 =--
 
 

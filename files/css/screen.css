@@ -32,15 +32,15 @@ img { -ms-interpolation-mode:bicubic; }
 html>body { font-size:16px; }
 p { margin: 0 0 1.5em 0; text-align: justify; }
 
-a { text-decoration: none; color: #339; }
-a:hover { text-decoration: underline; color: #33f; }
+a, a:visited { text-decoration: none; color: #6699ff; }
+a:hover { text-decoration: underline; color: #3300ff; }
 a.pdf:before { 
 	margin-right: 1em;
 	content: url(/files/css/icon_pdf.gif); }
 
 h1,h2,h3,h4 { 
 	line-height:1em; 
-	font-size:1.5em; 
+	font-size:2em; 
 	font-weight: normal; 
 	clear: left; 	
 	font-family: 'lucida grande', sans-serif; 
@@ -247,11 +247,11 @@ ul.compact li a {
 .twitter-title a { display: inline; }
 /* @end */
 
-body#Work #header a.work, 
+body#Research #header a.work, 
 body#Home #header a.home, 
 body#Play #header a.play,
-body#Info #header a.info,
-body#Code #header a.code,
+body#About #header a.info,
+body#Teaching #header a.code,
 body#Past #header a.past,
 body#Kith #header a.kith
 { 

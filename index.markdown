@@ -31,13 +31,16 @@ and validation of computational tools in data analysis and biophysics.
 =--
 
 +--     {.section}
-Philosophy
-=======
+<h1 id="Philosophy"><a href="files/moral_agency.pdf" target="_blank">Philosophy</a></h1>
+
 I'm interested in the role of information in ethical decision making
 and in the emergence of agent-like behavior in large organizations.
 =--
 
 
+
+
+[moralagency]: http://markbetnel.com/files/moral_agency.pdf
 [phil]: http://markbetnel.com/philosophy/
 [edu]: http://markbetnel.com/teaching/
 [soft]: http://markbetnel.com/software/

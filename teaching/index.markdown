@@ -5,34 +5,42 @@ section: Teaching
 ---
 
 Courses
+
++-- {.section}
+Winter 2013
+=======
+ Precalculus (launching soon)  
+ Algebra (launching soon)  
+ Survey of College Math (launching soon)  
+=--
+
++-- {.section}
+Fall 2012
+==========
+ [General Physics I][gp1] (algebra-based)  
+ [Physics II][cp2] (calculus-based)  
+ [Quantitative Analysis][qa1]  
+=--
+
++-- {.section}
+Spring 2012
+===========
+ Discrete Math  
+ Science and Civilization  
+=--
+
++-- {.section}
+Winter 2012
+================
+ Survey of College Math  
+=--
+
++-- {.section}
+Fall 2011
 =========
-+ Winter 2012-2013
-	+ Precalculus (launching soon)
-	+ Algebra (launching soon)
-	+ Survey of College Math (launching soon)
-+ Fall 2012
-	+ [General Physics I][gp1] (algebra-based)
-	+ [Physics II][cp2] (calculus-based)
-	+ [Quantitative Analysis][qa1]
-+ Spring 2012
-	+ Discrete Math
-	+ Science and Civilization
-+ Winter 2011-2012
-	+ Survey of College Math
-
-+ Fall 2011
-	+ Survey of College Math
-	+ Physics II
-
-Guiding Principles
-==================
-+ Everyone *can* do math and physics.  Everyone *should* do math and physics.
-+ There is no such thing as "inactive learning".  Learning requires doing.
-+ "Why?" is the most important question anyone can ask.
-+ If you haven't been wrong yet today, you aren't working hard enough.
-+ Thoughtful pedagogy requires motivation from the research.
-
-
+ Survey of College Math  
+ Physics II  
+=--
 
 
 [qa1]: http://markbetnel.com/qa1/
