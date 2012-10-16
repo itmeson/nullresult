@@ -8,7 +8,6 @@ top: Mark Betnel
 
 ---
 
-<img class='inset right' src='../images/sleeping.jpg' title='Galen at rest' alt='Live to sleep...' width='120px' />
 
 +-- {.section}
 About

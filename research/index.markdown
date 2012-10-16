@@ -4,7 +4,6 @@ title: Research
 section: Research
 ---
 
-<img class='inset right' src='../images/family.jpg' title='Work to live...' alt='my family' width='120px' />
 
 +-- {.section}
 Research 
