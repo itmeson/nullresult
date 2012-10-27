@@ -9,9 +9,8 @@ Courses
 +-- {.section}
 Winter 2013
 =======
- Precalculus (launching soon)  
- Algebra (launching soon)  
- Survey of College Math (launching soon)  
+ [Precalculus][pc]   
+ [Algebra][alg]   
 =--
 
 +-- {.section}
@@ -46,6 +45,8 @@ Fall 2011
 [qa1]: http://markbetnel.com/qa1/
 [cp2]: http://markbetnel.com/calc-phys-2
 [gp1]: http://markbetnel.com/genphys
+[pc]: http://markbetnel.com/precalc
+[alg]: http://markbetnel.com/algebra
 [research]: ../work/
 [published]: ../work/pubs
 [personal]: ../

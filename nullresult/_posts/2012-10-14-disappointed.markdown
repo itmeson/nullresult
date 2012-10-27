@@ -10,7 +10,7 @@ categories: teaching, gender
 layout: iem-post
 ---
 
-I've been excited about the book *Thinking Physics*, by Lewis Carroll Epstein for quite some time.  Everyone recommends it.  Everyone loves it. 
+Everyone loves the book *Thinking Physics*, by Lewis Carroll Epstein. Everyone recommends it. 
 
 So I finally ordered it a couple weeks ago, thinking that it would be a great
 source for questions for my students -- since it's so hard to write good
