@@ -10,9 +10,8 @@ Courses
 Spring 2013
 ===========
  [Quantitative Analysis][qaS2013]  
- [Science and Civilization][sciciv]  
- [Science and Civilization Online][scicivOL]  
  [Discrete Mathematics][discrete]  
+ Science and Civilization 
 =--
 
 +-- {.section}
